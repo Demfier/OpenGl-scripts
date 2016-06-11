@@ -20,4 +20,4 @@ for example if you wanted to check the **controlMesh.c**, the command would be:
 ```c
 gcc -o controlTheMesh controlMesh.c -lGL -lGLU -lglut -lpthread -lm
 ```
-this will create an executable file named *controledMesh* on your system. Just open and see the magic going.
+this will create an executable file named *controlTheMesh* on your system. Just open and see the magic going.
